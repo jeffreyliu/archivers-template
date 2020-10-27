@@ -2,7 +2,7 @@ asn1crypto==0.22.0
 certifi==2017.4.17
 cffi==1.10.0
 chardet==3.0.3
-cryptography==1.9
+cryptography==3.2
 cssselect==0.9.1
 DateTime==4.2
 dumptruck==0.1.6
