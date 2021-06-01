@@ -16,5 +16,5 @@ pytz==2017.2
 requests==2.17.3
 -e git+http://github.com/openaustralia/scraperwiki-python.git@732dda1982a3b2073f6341a6a24f9df1bda77fa0#egg=scraperwiki
 six==1.10.0
-urllib3==1.21.1
+urllib3==1.26.5
 zope.interface==4.4.1
